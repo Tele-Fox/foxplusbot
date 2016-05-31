@@ -1,5 +1,4 @@
-_ =
-  telegram_api_key: "210648333:AAFJ7jsof2cZgl4aG1SHTzELV-T62N1aSt4" --Your telegram bot api key
+  telegram_api_key: "228322959:AAHBKa6aphEqH0RYY5nMGCu6pAxmOtli588" --Your telegram bot api key
   insta_api_key: "210648333:AAFJ7jsof2cZgl4aG1SHTzELV-T62N1aSt4" --http://bit.ly/1SWWkeY
   google_api_key: "" -- http://bit.ly/1VuH0Hl
   lastfm_api_key: "5f166c9b0cc3fbf96804db38a6c9ff05" --http://bit.ly/1ZjSy04
